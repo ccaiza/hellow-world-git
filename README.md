@@ -4,4 +4,14 @@
 #### Cabecera h4
 ##### Cabecera h5
 ###### Cabecera h6
-soy un readme
+under line 1
+------------
+
+under line 2
+============
+
+- letra *italica* de la primera forma.
+- letra _italica_ de la primera forma.
+- formato **bold** o __strong__ forma 1
+- formato tachado ~~tachado~~
+- aqui podemos usar 
